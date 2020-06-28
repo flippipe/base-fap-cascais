@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:flippipe/base-fap-cascais.git
+	branch = master
