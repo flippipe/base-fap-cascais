@@ -1,0 +1,8 @@
+baseURL = "https://base.fap-cascais.info"
+languageCode = "pt-pt"
+title = "FAP Cascais"
+theme = "stip"
+
+[Author]
+    name = "FAP Cascais"
+    bio = "Actividades relativas à Federação das Associações de Pais do Concelho de Cascais"
