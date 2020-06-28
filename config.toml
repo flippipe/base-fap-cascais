@@ -2,6 +2,7 @@ baseURL = "https://base.fap-cascais.info"
 languageCode = "pt-pt"
 title = "FAP Cascais"
 theme = "stip"
+publishDir = "docs"
 
 [Author]
     name = "FAP Cascais"
